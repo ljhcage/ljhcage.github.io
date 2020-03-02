@@ -1,1 +1,8 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affcet your whole blog
+# https://learnt-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml
+title: Cage Blog
+description: Cage's Personal Blog
 theme: jekyll-theme-cayman
