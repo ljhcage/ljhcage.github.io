@@ -3,5 +3,5 @@ My Personal `blog`
 
 welcome to Cage's Blog
 
-1.TOC
+1. TOC
 {:toc}
